@@ -1,0 +1,28 @@
+[
+    {
+        "img": "../assets/images/photo03.jpg",
+        "alt": "Fun",
+        "name": "Fun",
+        "button" : "view destination"
+    },
+    {
+        "img": "../assets/images/photo00.jpg",
+        "alt": "Beach",
+        "name": "Beach",
+        "button" : "view destination"
+    },
+    {
+
+        "img": "../assets/images/photo02.jpg",
+        "alt": "City",
+        "name": "City",
+        "button" : "view destination"
+    },
+    {
+
+        "img": "../assets/images/photo01.jpg",
+        "alt": "Views",
+        "name": "Views",
+        "button" : "view destination"
+    }
+]
